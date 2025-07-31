@@ -1,6 +1,5 @@
 # ZypherX Technologies
-Growth Matters
-Innovating the future through technology and design.
+Growth Matters, Innovating the future through technology and design.
 
 ## What We Do
 At **ZypherX Technologies**, we specialize in delivering cutting-edge digital solutions:
